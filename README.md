@@ -1,0 +1,1 @@
+Virtual IPS2550 post-processing: given a coil voltage, it is amplified and offset as in the real sensor.
